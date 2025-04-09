@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46a8a2dd-07be-4027-ada4-b6633407df64" name="Changes" comment="" />
+    <list default="true" id="46a8a2dd-07be-4027-ada4-b6633407df64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Nhungjavascript/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nhungjavascript/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nhungjavascript/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nhungjavascript/bai3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -30,6 +39,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/codegym/bai6&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -55,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744165864574</updated>
-      <workItem from="1744165865785" duration="1672000" />
+      <workItem from="1744165865785" duration="2155000" />
     </task>
     <servers />
   </component>
